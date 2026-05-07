@@ -1,6 +1,5 @@
 # Stack-using-Array
 This is my first Git Repository.
-<br>
 #include <iostream>
 using namespace std;
 
